@@ -1,4 +1,5 @@
-{
+[
+  {
   "LANG": "EN",
   "ANTI_BAD": [],
   "MAX_SIZE": 100,
@@ -8,4 +9,5 @@
   "ALIVE": "default",
   "FOOTER": "©𝚉𝙴𝚁𝙾-𝚃𝚆𝙾 𝙼𝙳",
   "LOGO": "https://github.com/vihangayt0/ZeroTwo-Uploads/blob/main/ZERO-TWO.png?raw=true"
-}
+  }
+]
